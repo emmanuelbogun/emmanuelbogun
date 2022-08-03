@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @emmanuelbogun and I'm a Data Analyst based in Abuja, Nigeria.
-- 👀 I’m interested in working projects that extracts actionable insights from data.
-- 🌱 I’m currently learning more about Data Science and Introduction to Machine Learning
-- 💞️ I’m looking to collaborate on projects that will require data cleaning, data wrangling, analytics and visualization skills.
-- 📫 How to reach me emmanueltbogun@gmail.com
+- - 👋 Hi, I’m @emmanuelbogun and I'm a Data Analyst.
+- 👀 I’m interested in learning Data Analytics and working on projects that extracts actionable insights from data.
+- 🌱 I’m proficient in using Python, SQL, Power BI and Hopefully learn Machine Learning soon.
+- 💞️ I’m hoping to build a repository to showcase my skills, share my projects and document my journey in the Data Analytics/Data Science field. 
+- 📫 You can reach me via emmanueltbogun@gmail.com
 
 <!---
-emmanuelbogun/emmanuelbogun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TechXDataBro/TechXDataBro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
