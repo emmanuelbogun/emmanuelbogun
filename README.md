@@ -1,4 +1,4 @@
-- - 👋 Hi, I’m @emmanuelbogun and I'm a Data Analyst.
+-👋 Hi, I’m @emmanuelbogun and I'm a Data Analyst.
 - 👀 I’m interested in learning Data Analytics and working on projects that extracts actionable insights from data.
 - 🌱 I’m proficient in using Python, SQL, Power BI and Hopefully learn Machine Learning soon.
 - 💞️ I’m hoping to build a repository to showcase my skills, share my projects and document my journey in the Data Analytics/Data Science field. 
